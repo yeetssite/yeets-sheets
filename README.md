@@ -1,2 +1,2 @@
-# yeets-sheets
-Yeets CSS and stylesheets
+# yeet's sheets
+i sheeted my pants
