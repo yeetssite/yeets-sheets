@@ -1,5 +1,5 @@
 ## Contributing 101  
-    Revision 1.1, Dated 20 April 2024.
+    Revision 1.2, Dated 1 May 2024.
     Visit <https://yeetssite.github.io> for more information.
 
 ---
@@ -18,4 +18,5 @@ is welcome, as long as they won't get the repo dmca'd cuz some stolen code was s
 ### No stolen code  
 Don't steal other peoples code if they don't want you to. Common sense.
 
-I don't have many rules for those with contribution access except for these 3 barely enforced ones so please follow them.
+---
+I don't have many rules for those with contribution access except for these 4 barely enforced ones so please follow them.
